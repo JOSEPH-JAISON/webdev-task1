@@ -1,0 +1,19 @@
+body{
+    background-image: url(./image1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+.text{
+    
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    padding-top: 20%;
+}
+.container{
+    align-items: center;
+    padding-top:10% ;
+    justify-content: center;
+}
